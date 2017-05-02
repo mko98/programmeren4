@@ -9,7 +9,7 @@
    "main": "./MyRandomUser/myrandomuser.js",
    "scripts": {
    "start": "node ./MyRandomUser/myrandomuser.js"
- },
+ }
 
   },
   "author": "max",
