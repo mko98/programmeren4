@@ -5,11 +5,9 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    
-   "main": "./MyRandomUser/myrandomuser.js",
-   "scripts": {
-   "start": "node ./MyRandomUser/myrandomuser.js"
- }
+    "main": "./MyRandomUser/myrandomuser.js",
+ "scripts": {
+ "start": "node ./MyRandomUser/myrandomuser.js"
 
   },
   "author": "max",
