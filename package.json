@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
     
-   "main": "./<jouw subdirectory>/<jouw Javascript file>",
+   "main": "./MyRandomUser/myrandomuser.js",
    "scripts": {
-   "start": "node ./<jouw subdirectory>/<jouw Javascript file>"
+   "start": "node ./MyRandomUser/myrandomuser.js"
  },
 
   },
